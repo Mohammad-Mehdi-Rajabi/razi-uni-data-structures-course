@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\obj\Debug\prime_fibo.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\obj\Debug\prime_fibo.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\obj\Debug\prime_fibo.Form1.resources
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\obj\Debug\prime_fibo.Properties.Resources.resources
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\obj\Debug\prime_fibo.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\obj\Debug\prime_fibo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\bin\Debug\prime_fibo.exe.config
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\bin\Debug\prime_fibo.exe
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\bin\Debug\prime_fibo.pdb
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\obj\Debug\prime_fibo.exe
+C:\Users\pc\Desktop\C#\prime_fibo\prime_fibo\prime_fibo\obj\Debug\prime_fibo.pdb
