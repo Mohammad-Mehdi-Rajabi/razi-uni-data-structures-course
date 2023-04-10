@@ -74,5 +74,24 @@ namespace prime_fibo
 			resultTxt.Text = "";
 			//resultTxt.Clear();
 		}
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+			int num;
+			if (Int32.TryParse(numberTxt.Text, out num))
+			{
+				int fac = 1;
+				for (int i = 2; i <= num; i++) {
+					fac *= i;
+				}
+				resultTxt.Text = Convert.ToString(fac);
+			}
+			else
+			{
+				resultTxt.Text = "invalid number";
+			}
+		}
+
+		
 	}
 }
